@@ -40,7 +40,7 @@ The layout follows this structure:
 ## Project Structure
 
 ```text
-holy-grail-layout/
+HolyGrailLayout/
 │
 ├── index.html
 ├── style.css
@@ -52,13 +52,13 @@ holy-grail-layout/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/holy-grail-layout.git
+git clone https://github.com/namanmishra6767/frontend-projects.git
 ```
 
 Open the project folder:
 
 ```bash
-cd holy-grail-layout
+cd HolyGrailLayout
 ```
 
 Then open `index.html` in your browser.
